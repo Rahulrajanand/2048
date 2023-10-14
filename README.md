@@ -17,7 +17,7 @@
 - HTML and CSS for the user interface
 - Event handling for user input
 - Animation effects for tile movement and merging
-- Local storage for storing high scores and game state
+  
 
 ## How to Play
 1. Start the game by launching the application in your web browser.
